@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "blaze-slider": "^1.9.1",
+    "pinch-zoom-js": "^2.3.5"
+  }
+}
